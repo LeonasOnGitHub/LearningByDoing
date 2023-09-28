@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11ae894c-a999-43e7-9ed1-ac39f146baf2" name="Changes" comment="1.FizzBuzz Done">
-      <change afterPath="$PROJECT_DIR$/src/Primenumber.java" afterDir="false" />
+    <list default="true" id="11ae894c-a999-43e7-9ed1-ac39f146baf2" name="Changes" comment="2. Primenumber Done">
+      <change afterPath="$PROJECT_DIR$/src/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Palidrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +52,14 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Primenumber">
+  <component name="RunManager" selected="Application.Fibonacci">
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fibonacci" />
+      <module name="LearningByDoing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FizzBuzz" />
       <module name="LearningByDoing" />
@@ -68,6 +76,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.Primenumber" />
         <item itemvalue="Application.FizzBuzz" />
       </list>
@@ -81,7 +90,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695892836933</updated>
-      <workItem from="1695892838604" duration="2036000" />
+      <workItem from="1695892838604" duration="5502000" />
     </task>
     <task id="LOCAL-00001" summary="1.FizzBuzz Done">
       <created>1695894008367</created>
@@ -90,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695894008368</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2. Primenumber Done">
+      <created>1695895150503</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695895150503</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +125,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1.FizzBuzz Done" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.FizzBuzz Done" />
+    <MESSAGE value="2. Primenumber Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="2. Primenumber Done" />
   </component>
 </project>
