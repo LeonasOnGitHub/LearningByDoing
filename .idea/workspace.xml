@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11ae894c-a999-43e7-9ed1-ac39f146baf2" name="Changes" comment="3. Fibo Done&#10;4. Pali not Done">
-      <change beforePath="$PROJECT_DIR$/src/Palidrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Palidrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RiceBags.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,18 +42,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Palidrome">
+}</component>
+  <component name="RunManager" selected="Application.RiceBags">
     <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Fibonacci" />
       <module name="LearningByDoing" />
@@ -79,10 +82,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RiceBags" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RiceBags" />
+      <module name="LearningByDoing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Palidrome" />
+        <item itemvalue="Application.RiceBags" />
         <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.Palidrome" />
         <item itemvalue="Application.Primenumber" />
         <item itemvalue="Application.FizzBuzz" />
       </list>
@@ -97,6 +108,7 @@
       <option name="presentableId" value="Default" />
       <updated>1695892836933</updated>
       <workItem from="1695892838604" duration="5981000" />
+      <workItem from="1695903740889" duration="6582000" />
     </task>
     <task id="LOCAL-00001" summary="1.FizzBuzz Done">
       <created>1695894008367</created>
